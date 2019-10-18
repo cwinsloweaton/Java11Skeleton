@@ -1,13 +1,13 @@
-Name:
+Name: Chris Eaton
 
 
-1.
+1. Source code is what programmers write and it gets compiled to bytecode. 
 
-2.
+2. 
 
 3.
 
-4.
+4. 
 
 5.
 
@@ -20,6 +20,15 @@ Name:
 9.
 
 10.
+Hello Mercury!
+Hello Venus!
+Hello Earth!
+Hello Mars!
+Hello Jupiter!
+Hello Saturn!
+Hello Uranus!
+Hello Neptune!
+Hello Pluto!
 
 11.
 
