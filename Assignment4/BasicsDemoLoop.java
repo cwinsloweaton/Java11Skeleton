@@ -7,6 +7,5 @@ public class BasicsDemoLoop {
             System.out.println ("Anything between the { and } will repeat 10 times");
         }
         System.out.println ( "Finished counting");
-        
     }
 }

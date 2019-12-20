@@ -1,14 +1,13 @@
 public class PurchaseCalc {
     public static void main(String[] args) {
         double price = 1.47;
-        int quantity = 10;
-        double sum = 0;
-        
-        for (int i = 0; i < quantity; i++) {
-            //sum = sum + price;
-            sum += price;
+        int amount = 5;
+        double totalCost = 0;
+        // totalCost = price * amount;
+        for (int i = 0; i < amount; i++) {
+            totalCost = totalCost + price;
         }
         
-        System.out.println("Final cost: " + sum);
+        System.out.println("Total cost: " + totalCost);
     }
 }
