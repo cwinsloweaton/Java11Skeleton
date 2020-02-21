@@ -1,14 +1,29 @@
 import java.util.Scanner;
 
 public class BrickDrop {
+    
+    public boolean isMoreThanTen(int x) {
+        if (x > 10) {
+            return true;
+        }
+        return false;
+    }
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        double d, g, t;
+        double d, t;
+        double g = 9.81;
         
-        g = 32.174;
         
-        d = (1f/2f) * g * t * t;
+        //Prompt the user to enter the 
+        //elapsed time of freefall.
+        if (str > 10 || dex > 10) {
+            
+        }
+        //Use the scanner to store the
+        //input in the t variable.
         
-        System.out.println("Distance: " + distance);
+        //Do math
+        
+        //Output result
     }
 }
